@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+out/
+build/
+
+# VS Code
+.vscode/
+classpath.txt

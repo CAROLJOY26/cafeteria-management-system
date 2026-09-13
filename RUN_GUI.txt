@@ -1,0 +1,24 @@
+UNIVERSITY CAFETERIA SYSTEM - GUI
+
+1. Open this folder in VS Code.
+2. Make sure Java JDK 21 is installed.
+3. Open CafeteriaSystemGUI.java.
+4. Click Run (or use the Run button above main()).
+5. Student login:
+   - Create Student Account first, or use a registered student.
+6. Staff login:
+   - Default staff ID: admin
+   - Default password: admin123
+
+Main GUI features:
+- Colorful bubble-style login screen
+- Student dashboard
+- Browse menu and place orders
+- Loyalty points and rewards
+- Student order tracking
+- Staff dashboard
+- Order status management
+- Menu item management
+- Reports and analytics
+
+All GUI styling uses standard Java Swing/AWT. No external libraries are required.
