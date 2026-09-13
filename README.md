@@ -266,6 +266,22 @@ Possible future improvements include:
 
 ---
 
+
+## 📸 Application Screenshots
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 🎓 Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### 🍔 Cafeteria Menu
+![Cafeteria Menu](screenshots/cafeteria-menu.png)
+
+### 👨‍💼 Staff Dashboard
+![Staff Dashboard](screenshots/staff-dashboard.png)
+
+
 ## 👩‍💻 Author
 
 **Carol Joseph Gorgi**
