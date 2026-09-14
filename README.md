@@ -173,7 +173,6 @@ The application includes:
 ### 👨‍💼 Staff Dashboard
 
 ![Staff Dashboard](screenshots/staff-dashboard.png)
-
 ## ▶️ How to Run
 
 ### 1️⃣ Requirements
