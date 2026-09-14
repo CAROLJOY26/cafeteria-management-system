@@ -160,7 +160,7 @@ The application includes:
 
 ### 🔐 Login
 
-![Login](screenshots/login.png)
+![Cafeteria Login](screenshots/login.png)
 
 ### 🎓 Student Dashboard
 
@@ -173,8 +173,6 @@ The application includes:
 ### 👨‍💼 Staff Dashboard
 
 ![Staff Dashboard](screenshots/staff-dashboard.png)
-
----
 
 ## ▶️ How to Run
 
